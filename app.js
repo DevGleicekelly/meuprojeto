@@ -74,4 +74,4 @@ function verificarChute() {
         exibirMensagemInicial();
         document.getElementById('reiniciar').setAttribute('disabled' , true);
     }
-        
+        //
